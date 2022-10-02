@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CCE7&width=435&lines=Helllooo!!(%E0%B9%91%CB%83%E1%B4%97%CB%82)%EF%BB%AD)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7CCE7&width=435&lines=Helllooo!!+(%E0%B9%91%CB%83%E1%B4%97%CB%82)%EF%BB%AD)](https://git.io/typing-svg)
 
 <!--
 **Solaireis/Solaireis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
