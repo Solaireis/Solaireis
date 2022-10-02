@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 ### About myself 🌻
 - 🔭 I’m currently on a adventure with CHFI Forensics Investigator!
 - 🌱 I’m currently learning Python, Linux System Administration, Windows Active Directory System Administration,
-- 🧋 Hobbies: I enjoy doing photography, art, music, reading & sports („• ֊ •„)
+- 🧋 Hobbies: I enjoy doing many things such as photography, art, music, reading, cooking, sports and more!! („• ֊ •„)
 
 
 
