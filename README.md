@@ -13,3 +13,10 @@ Here are some ideas to get you started: -->
 
 ## My Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solaireis&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Things I've explored
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,azure,cloudflare,figma,gcp,mysql,powershell,flask,xd,bootstrap,ai,bash&theme=light)](https://skillicons.dev)
+
+## Things I am interested in learning in the near future
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,selenium,tailwind,unreal,arduino&theme=light)](https://skillicons.dev)
