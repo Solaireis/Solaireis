@@ -22,8 +22,8 @@ Here are some ideas to get you started: -->
 
 ## Coding Projects 💻
 - Python Vending Machine
-- Data Structures and Algorithm Hotel Booking
-- Data Sturctures and Algorithm Assignment
+- [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN)
+- [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202)
 
 ## Competitions 🎯
 - Capture the flags
