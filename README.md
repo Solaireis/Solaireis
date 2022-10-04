@@ -14,23 +14,23 @@ Here are some ideas to get you started: -->
 ## My Top Languages 🌟
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solaireis&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## Website Style Projects which I've done in school 🎉
+## Website Style Projects which I've done in school 🎉 <!-- turn this into a table with desc -->
 - [Pear Inc, Product Web Page](https://github.com/Solaireis/PearInc)
 - [Nanyang Poly Astronomy Club Page](https://github.com/Solaireis/NYP-ASTRO)
 - [BrasBasahBookStore Web Application](https://github.com/Solaireis/1566-App-dev-Team-2)
 - [Coursefinity Web Application Security Project](https://github.com/Solaireis/CWC-Application-Security-Project)
 
-## Coding Projects 💻
+## Coding Projects 💻 <!-- turn this into a table with desc -->
 - [Python Vending Machine](https://github.com/Solaireis/Vending-Machine/tree/main)
 - [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN)
 - [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202)
 
-## Competitions 🎯
+## Competitions 🎯 <!-- turn this into a table with desc -->
 - Capture the flags
 - CodeForces
 
-## Things I've explored ⛩️
+## Things I've explored ⛩️ <!-- turn this into a table with desc -->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,azure,cloudflare,figma,gcp,mysql,powershell,flask,xd,bootstrap,ai,bash&theme=light)](https://skillicons.dev)
 
-## Things I am interested in learning in the near future ✈️
+## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
 [![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,selenium,tailwind,unreal,arduino&theme=light)](https://skillicons.dev)
