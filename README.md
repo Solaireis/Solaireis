@@ -16,7 +16,13 @@ Here are some ideas to get you started: -->
 
 ## My Projects
 <details>
-  <summary>Click Me!</summary>
+  <summary>
+        <h3>
+          <span style="colour:#FFDAB9;">
+            Click Me!
+          </span>
+       </h3>
+    </summary>
   
 ## Website Projects 🎉 <!-- turn this into a table with desc -->
 
