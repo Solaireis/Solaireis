@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 - [Coursefinity Web Application Security Project](https://github.com/Solaireis/CWC-Application-Security-Project)
 
 ## Coding Projects 💻
-- Python Vending Machine
+- [Python Vending Machine](https://github.com/Solaireis/Vending-Machine/tree/main)
 - [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN)
 - [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202)
 
