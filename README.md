@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 ### About myself 🌻
-- 🔭 I’m currently on a adventure with CHFI Forensics Investigator!
+- 🔭 I’m currently on a adventure with CHFI Forensics Investigator! plus tidying up my repository readme
 - 🌱 I’m currently learning Python, Linux System Administration, Windows Active Directory System Administration,
 - 🧋 Hobbies: I enjoy doing many things such as photography, art, music, reading, cooking, sports and more!! („• ֊ •„)
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 
 
 
-## Competitions Writeups 🎯 <!-- turn this into a table with desc -->
+## Competitions Writeups [WIP:tidying up my writeups] 🎯 <!-- turn this into a table with desc -->
 
    - Capture the flags
    - CodeForces
