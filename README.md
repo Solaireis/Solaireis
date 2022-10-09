@@ -53,7 +53,18 @@ Here are some ideas to get you started: -->
 </details>
 
 ## Things I've explored ⛩️ <!-- turn this into a table with desc -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,azure,cloudflare,figma,gcp,mysql,powershell,flask,xd,bootstrap,ai,bash&theme=light)](https://skillicons.dev)
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,&theme=light)](https://skillicons.dev)
+
+### System Administration
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash&theme=light)](https://skillicons.dev)
+
+### UX & UI Design
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai&theme=light)](https://skillicons.dev)
+
+### Cloud
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
 
 ## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
 [![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,selenium,tailwind,unreal,arduino&theme=light)](https://skillicons.dev)
