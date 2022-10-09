@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
 
 
 
-## Competitions Writeups [WIP:tidying up my writeups] 🎯 <!-- turn this into a table with desc -->
+## Competitions Writeups [WIP] 🎯 <!-- turn this into a table with desc -->
 
    - Capture the flags
    - CodeForces
