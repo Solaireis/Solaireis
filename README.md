@@ -61,7 +61,7 @@ Here are some ideas to get you started: -->
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash&theme=light)](https://skillicons.dev)
 
 ### UX & UI Design
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
 
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
