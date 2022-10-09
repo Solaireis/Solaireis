@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 ## My Top Languages 🌟
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solaireis&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Projects 🤍
+## My Projects 😇
 <details>
   <summary>
         <h3>
