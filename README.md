@@ -54,16 +54,16 @@ Here are some ideas to get you started: -->
 
 ## Things I've explored ⛩️ <!-- turn this into a table with desc -->
 
-### Tech Stack
+### Tech Stack 📚
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,&theme=light)](https://skillicons.dev)
 
-### System Administration
+### System Administration 🔐
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash&theme=light)](https://skillicons.dev)
 
-### UX & UI Design
+### UX & UI Design ✏️
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
 
-### Cloud
+### Cloud 🌤️
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
 
 ## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
