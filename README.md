@@ -26,11 +26,13 @@ Here are some ideas to get you started: -->
   
 ## Website Projects 🎉 <!-- turn this into a table with desc -->
 
-  
-  - [Pear Inc, Product Web Page](https://github.com/Solaireis/PearInc)
-  - [Nanyang Poly Astronomy Club Page](https://github.com/Solaireis/NYP-ASTRO)
-  - [BrasBasahBookStore Web Application](https://github.com/Solaireis/1566-App-dev-Team-2)
+
   - [Coursefinity Web Application Security Project](https://github.com/Solaireis/CWC-Application-Security-Project)
+  - [BrasBasahBookStore Web Application](https://github.com/Solaireis/1566-App-dev-Team-2)
+  - [Nanyang Poly Astronomy Club Page](https://github.com/Solaireis/NYP-ASTRO)
+  - [Pear Inc, Product Web Page](https://github.com/Solaireis/PearInc)
+  
+ 
   
 
 
