@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 ### About myself 🌻
-- 🔭 I’m currently on a adventure with CHFI Forensics Investigator! plus tidying up my repository readme
+- 🔭 I’m currently on an adventure with CHFI Forensics Investigator plus tidying up my repository readme ♡(>ᴗ•)
 - 🌱 I’m currently learning Python, Linux System Administration, Windows Active Directory System Administration & Forensics Investigations
 - 🧋 Hobbies: I enjoy doing many things such as photography, art, music, reading, cooking, sports and more!! („• ֊ •„)
 
