@@ -16,11 +16,21 @@ Here are some ideas to get you started: -->
 ## My Top Languages 🌟
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solaireis&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stats for Nerds 📷
-
+## Stats for Nerds ❤️‍🔥
+<details>
+  <summary>
+        <h3>
+          <span style="colour:#FFDAB9;">
+            Click Me!
+          </span>
+       </h3>
+    </summary>
+    
 ![Sola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solaireis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Solaireis&theme=light)
+
+</details> 
 
 ## My Projects 😇
 <details>
