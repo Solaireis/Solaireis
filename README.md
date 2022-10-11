@@ -4,6 +4,7 @@
 **Solaireis/Solaireis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+
 ### About myself 🌻
 - 🔭 I’m currently on an adventure with CHFI Forensics Investigator plus tidying up my repository readme ♡(>ᴗ•)
 - 🌱 I’m currently learning Cybersecurity, Digital Forensics, WSS IT System Network Administrator ⊂( ´ ▽ ` )⊃
@@ -11,8 +12,15 @@ Here are some ideas to get you started: -->
 
 
 
+
 ## My Top Languages 🌟
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solaireis&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+## Stats for Nerds 📷
+
+![Sola's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solaireis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Solaireis&theme=light)
 
 ## My Projects 😇
 <details>
