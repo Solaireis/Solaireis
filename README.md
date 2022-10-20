@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 ### About myself 🌻
-- 🔭 I’m currently on an adventure with CHFI Forensics Investigator plus tidying up my repository readme ♡(>ᴗ•)
+- 🔭 I’m currently on an adventure with CHFI Forensics Investigator, tidying up my repository readme & working on 未来 Security Project ♡(>ᴗ•)
 - 🌱 I’m currently learning Cybersecurity, Digital Forensics, WSS IT System Network Administrator ⊂( ´ ▽ ` )⊃
 - 🧋 Hobbies: I enjoy doing many things such as photography, art, music, reading, cooking, sports and more!! („• ֊ •„)
 
