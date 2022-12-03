@@ -5,12 +5,35 @@
 
 Here are some ideas to get you started: -->
 
-### About myself 🌻
-- 🔭 I’m currently on an adventure with IT System Network Administrator,Cisco DevOps tidying up my repository readme & working on 未来 Security Project ♡(>ᴗ•)
-- 🌱 I’m currently learning Cybersecurity, Digital Forensics, WSS IT System Network Administrator ⊂( ´ ▽ ` )⊃
-- 🧋 Hobbies: I enjoy doing many things such as photography, art, music, reading, cooking, sports and more!! („• ֊ •„)
+## About myself 🌻
+### Adventures 🔭 
+I’m currently on an adventure doing 
+- IT System Network Administrator 
+- Cisco DevOps 
+- working on 未来 Security Project ♡(>ᴗ•)
 
 
+### Involvements 🌱 
+Im involved in many activities all year round such as 
+-  NYP Worldskills Singapore for IT Systems Network Administrator 
+-  Astronomy Club 
+-  Cyber Games Circle 
+-  Capstone Projects 
+-  Sakuran Japanese Cultural Clubs
+
+
+### 🧋 Hobbies: I
+in my free time I enjoy doing many things such as 
+- photography, 
+- art, 
+- music, 
+- reading, 
+- cooking, 
+- sports and more!! („• ֊ •„)
+
+### My Favourite quote is
+ > ### "Do not live to satisfy the expectations of others"
+ >  - The Courage to be disliked
 
 
 ## My Top Languages 🌟
