@@ -22,7 +22,7 @@ Im involved in many activities all year round such as
 -  Sakuran Japanese Cultural Clubs
 
 
-### 🧋 Hobbies: I\
+### 🧋 Hobbies: 
 In my free time I enjoy doing many things such as 
 - doing photography & astrophotography
 - playing the piano
