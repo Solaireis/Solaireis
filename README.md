@@ -24,11 +24,11 @@ Im involved in many activities all year round such as
 
 ### 🧋 Hobbies: I
 in my free time I enjoy doing many things such as 
-- photography, 
-- art, 
-- music, 
-- reading, 
-- cooking, 
+- photography 
+- art 
+- music 
+- reading 
+- cooking 
 - sports and more!! („• ֊ •„)
 
 ### My Favourite quote on the Internet
