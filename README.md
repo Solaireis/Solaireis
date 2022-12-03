@@ -22,13 +22,14 @@ Im involved in many activities all year round such as
 -  Sakuran Japanese Cultural Clubs
 
 
-### 🧋 Hobbies: I
-in my free time I enjoy doing many things such as 
-- photography 
-- art 
-- music 
-- reading 
-- cooking 
+### 🧋 Hobbies: I\
+In my free time I enjoy doing many things such as 
+- doing photography & astrophotography
+- playing the piano
+- drawing lots of art 
+- listening to music 
+- reading books
+- cooking yummy food
 - sports and more!! („• ֊ •„)
 
 ### My Favourite quote on the Internet
