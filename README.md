@@ -31,9 +31,8 @@ in my free time I enjoy doing many things such as
 - cooking, 
 - sports and more!! („• ֊ •„)
 
-### My Favourite quote is
- > ### "Do not live to satisfy the expectations of others"
- >  - The Courage to be disliked
+### My Favourite quote on the Internet
+ > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
 
 
 ## My Top Languages 🌟
