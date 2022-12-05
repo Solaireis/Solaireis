@@ -88,10 +88,10 @@ In my free time I enjoy doing many things such as
 
 
 
-## Competitions Writeups [WIP] 🎯 <!-- turn this into a table with desc -->
+## Competitions Writeups 🎯 <!-- turn this into a table with desc -->
 
-   - Capture the flags
-   - CodeForces
+   - [CQC CTF Qualifiers](https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual)
+   - [CodeForces](https://github.com/Solaireis/Comps-Writeups/tree/main/Non-CTF/Code-Forces)
    
 </details>
 
