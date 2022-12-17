@@ -32,7 +32,7 @@ In my free time I enjoy doing many things such as
 - cooking yummy food
 - sports and more!! („• ֊ •„)
 
-### My Favourite quote on the Internet
+### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
 
 
