@@ -10,6 +10,8 @@ Here are some ideas to get you started: -->
 I’m currently on an adventure doing 
 - IT System Network Administrator 
 - Cisco DevOps 
+- Cisco Modeling Labs
+- ANSIBLE Automation via CISCO, WINDOWS, LINUX
 - working on 未来 Security Project ♡(>ᴗ•)
 
 
