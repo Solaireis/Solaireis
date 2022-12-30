@@ -34,6 +34,15 @@ In my free time I enjoy doing many things such as
 - cooking yummy food
 - sports and more!! („• ֊ •„)
 
+### IT related:
+Very interested in!
+- Operating systems (Linux, Macintosh, Windows etc)
+- Networking
+- Hacking
+- Forensics
+- Machine Learning, Artificial Intelligence 
+- Automation
+- 
 ### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
 
