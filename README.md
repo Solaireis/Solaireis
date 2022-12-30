@@ -42,7 +42,7 @@ Very interested in!
 - Forensics
 - Machine Learning, Artificial Intelligence 
 - Automation
-- 
+
 ### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
 
