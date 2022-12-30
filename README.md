@@ -109,7 +109,7 @@ Very interested in!
 ## Things I've explored ⛩️ <!-- turn this into a table with desc -->
 
 ### Tech Stack 📚
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,&theme=light)](https://skillicons.dev)
 
 ### System Administration 🔐
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,&theme=light)](https://skillicons.dev)
