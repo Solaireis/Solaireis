@@ -12,7 +12,7 @@ I’m currently on an adventure doing
 - Cisco DevOps 
 - Cisco Modeling Labs
 - ANSIBLE Automation via CISCO, WINDOWS, LINUX
-- working on 未来 Security Project ♡(>ᴗ•)
+- Working on 未来 Information Security Project ♡(>ᴗ•)
 
 
 ### Involvements 🌱 
