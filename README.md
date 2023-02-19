@@ -13,6 +13,8 @@ I’m currently on an adventure doing
 - Cisco Modeling Labs
 - ANSIBLE Automation via CISCO, WINDOWS, LINUX
 - Working on 未来 Information Security Project ♡(>ᴗ•)
+- Infrastructure Automation
+- Cybersecurity & Digital Forensics Diploma
 
 
 ### Involvements 🌱 
