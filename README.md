@@ -81,6 +81,7 @@ Very interested in!
 ## Website Projects 🎉 <!-- turn this into a table with desc -->
 
 
+  - [Mirai Infosecurity project](https://github.com/Solaireis/CWC-ISPJ)
   - [Coursefinity Web Application Security Project](https://github.com/Solaireis/CWC-Application-Security-Project)
   - [BrasBasahBookStore Web Application](https://github.com/Solaireis/1566-App-dev-Team-2)
   - [Nanyang Poly Astronomy Club Page](https://github.com/Solaireis/NYP-ASTRO)
