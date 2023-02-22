@@ -100,7 +100,8 @@ Very interested in!
   - [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202)
   
 
-
+## WSS Projects  <!-- turn this into a table with desc -->
+ - [ANSIBLE](https://github.com/Solaireis/ANSIBLE)
 
 ## Competitions Writeups 🎯 <!-- turn this into a table with desc -->
 
