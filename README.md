@@ -103,13 +103,18 @@ Very interested in!
   | 2 | [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN) |
   | 3 | [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202) |
 
-## WSS Projects  <!-- turn this into a table with desc -->
- - [ANSIBLE](https://github.com/Solaireis/ANSIBLE)
+## WSS Projects ☕️ <!-- turn this into a table with desc -->
+
+ | Number  | WSS Projects ☕️ |
+  | ------------- | ------------- |
+  | 1 | [ANSIBLE](https://github.com/Solaireis/ANSIBLE) |
 
 ## Competitions Writeups 🎯 <!-- turn this into a table with desc -->
-
-   - [CQC CTF Qualifiers](https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual)
-   - [CodeForces](https://github.com/Solaireis/Comps-Writeups/tree/main/Non-CTF/Code-Forces)
+ 
+ | Number  | Competitions Writeups 🎯 |
+  | ------------- | ------------- |
+  | 1 | [CQC CTF Qualifiers](https://github.com/Solaireis/CTF-Writeups/tree/main/NYP-CGC-Qual)|
+  | 2 | [CodeForces](https://github.com/Solaireis/Comps-Writeups/tree/main/Non-CTF/Code-Forces)|
    
 </details>
 
