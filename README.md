@@ -80,12 +80,14 @@ Very interested in!
   
 ## Website Projects 🎉 <!-- turn this into a table with desc -->
 
-
-  - [Mirai Infosecurity project](https://github.com/Solaireis/CWC-ISPJ)
-  - [Coursefinity Web Application Security Project](https://github.com/Solaireis/CWC-Application-Security-Project)
-  - [BrasBasahBookStore Web Application](https://github.com/Solaireis/1566-App-dev-Team-2)
-  - [Nanyang Poly Astronomy Club Page](https://github.com/Solaireis/NYP-ASTRO)
-  - [Pear Inc, Product Web Page](https://github.com/Solaireis/PearInc)
+ 
+  | Number  | Website Projects 🌸 |
+  | ------------- | ------------- |
+  | 1 | [Mirai Infosecurity project](https://github.com/Solaireis/CWC-ISPJ)  |
+  | 2 | [Coursefinity Web Application Security Project](https://github.com/Solaireis/CWC-Application-Security-Project) |
+  | 3 | [BrasBasahBookStore Web Application](https://github.com/Solaireis/1566-App-dev-Team-2) |
+  | 4 | [Nanyang Poly Astronomy Club Page](https://github.com/Solaireis/NYP-ASTRO) |
+  | 5 | [Pear Inc, Product Web Page](https://github.com/Solaireis/PearInc) |
   
  
   
@@ -95,10 +97,11 @@ Very interested in!
 ## Coding Projects 💻 <!-- turn this into a table with desc -->
 
   
-  - [Python Vending Machine](https://github.com/Solaireis/Vending-Machine/tree/main)
-  - [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN)
-  - [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202)
-  
+ | Number  | Coding Projects ✨ |
+  | ------------- | ------------- |
+  | 1 | [Python Vending Machine](https://github.com/Solaireis/Vending-Machine/tree/main) |
+  | 2 | [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN) |
+  | 3 | [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202) |
 
 ## WSS Projects  <!-- turn this into a table with desc -->
  - [ANSIBLE](https://github.com/Solaireis/ANSIBLE)
