@@ -108,6 +108,7 @@ Very interested in!
  | Number  | WSS Projects ☕️ |
   | ------------- | ------------- |
   | 1 | [ANSIBLE](https://github.com/Solaireis/ANSIBLE) |
+  | 2 | [CISCO](https://github.com/Solaireis/CML) |
 
 ## Competitions Writeups 🎯 <!-- turn this into a table with desc -->
  
