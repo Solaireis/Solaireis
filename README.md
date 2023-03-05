@@ -103,13 +103,14 @@ Very interested in!
   | 2 | [Data Structures and Algorithm Hotel Booking](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/201520M_ASSN) |
   | 3 | [Data Sturctures and Algorithm Assignment](https://github.com/Solaireis/DataStructures-Algorithms/tree/main/DSA%20Submission%20Assignment%202) |
 
-## WSS Projects ☕️ <!-- turn this into a table with desc -->
+<!--
+## WSS Projects ☕️ 
 
  | Number  | WSS Projects ☕️ |
   | ------------- | ------------- |
   | 1 | [ANSIBLE](https://github.com/Solaireis/ANSIBLE) |
   | 2 | [CISCO](https://github.com/Solaireis/CML) |
-
+-->
 ## Competitions Writeups 🎯 <!-- turn this into a table with desc -->
  
  | Number  | Competitions Writeups 🎯 |
