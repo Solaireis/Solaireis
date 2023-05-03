@@ -9,17 +9,16 @@ Here are some ideas to get you started: -->
 ### Adventures 🔭 
 I’m currently on an adventure doing 
 - IT System Network Administrator 
-- Cisco DevOps 
-- Cisco Modeling Labs
-- ANSIBLE Automation via CISCO, WINDOWS, LINUX
-- Working on 未来 Information Security Project ♡(>ᴗ•)
-- Infrastructure Automation
+- CCNA, CCNP-CCIE Enterprise learning
+- Infrastructure Automation using Ansible IaC
+- Linux System Administration
+- Windows System Administration
 - Cybersecurity & Digital Forensics Diploma
 
 
 ### Involvements 🌱 
 Im involved in many activities all year round such as 
--  NYP Worldskills Singapore for IT Systems Network Administrator 
+-  NYP Worldskills Singapore for IT Systems Network Administrator P1 & P2
 -  Astronomy Club 
 -  Cyber Games Circle 
 -  Capstone Projects 
