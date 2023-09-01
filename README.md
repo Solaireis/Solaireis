@@ -36,12 +36,30 @@ In my free time I enjoy doing many things such as
 
 ### IT related:
 Very interested in!
-- Operating systems (Linux, Macintosh, Windows etc)
-- Networking
-- Hacking
-- Forensics
-- Machine Learning, Artificial Intelligence 
-- Automation
+#### System Administration
+- Building VPN
+- Two Tier , Three Tier CA Servers
+- Building my own Internet Infrastructure
+- Root DNS
+- Proxies
+- Firewalls
+- Automation with IaC
+
+#### Enterprise Networking
+- DMVPN
+- Ipsec Ikev2 & Ikev1 Encryption
+- Routing and tunneling protocols
+
+#### Offensive Security
+
+#### Forensics, Malware Analysis
+
+#### Social Engineering
+
+#### Machine Learning & Data Analytics
+
+#### Operating systems development 
+- (Unix, GNU/Linux, MSDos, Solaris, iOS, Andriod etc)
 
 ### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
