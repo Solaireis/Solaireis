@@ -9,12 +9,11 @@ Here are some ideas to get you started: -->
 ### Adventures 🔭 
 I’m currently on an adventure doing 
 - IT System Network Administrator 
-- CCNA, CCNP-CCIE Enterprise learning
+- CCNA, CCNP ENCOR & ENARSI
 - Infrastructure Automation using Ansible IaC
 - Linux System Administration
 - Windows System Administration
 - Cybersecurity & Digital Forensics Diploma
-
 
 ### Involvements 🌱 
 Im involved in many activities all year round such as 
