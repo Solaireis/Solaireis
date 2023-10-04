@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 ## About myself 🌻
 ### Adventures 🔭 
 I’m currently on an adventure doing 
-- IT System Network Administrator 
+- WorldSkills Singapore IT System Network Administrator 
 - CCNA, CCNP ENCOR & ENARSI
 - Infrastructure Automation using Ansible IaC
 - Linux System Administration
