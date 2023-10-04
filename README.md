@@ -35,32 +35,81 @@ In my free time I enjoy doing many things such as
 - sports and more!! („• ֊ •„)
 
 ### IT related:
-Very interested in!
-#### System Administration
-- Building VPN
-- Two Tier , Three Tier CA Servers
-- Building my own Internet Infrastructure
-- Root DNS
-- Proxies
-- Firewalls
-- Automation with IaC
-- Mail Servers with DKIM signature headers 
+These are what i can do, it is not an exhaustive list
+#### Linux Client Server Administrations 
+(Debian 11.3-11.6) CLI or Gnome
+- BIND9 DNS
+- OpenVPN Tunnel (AOVPN)
+- Postfix Dovecot Opendkim Mail Servers 
+- NGINX Reverse Proxy SSL Passthrough w Load Balancer
+- LDAP and LDAP Auxillary Groups
+- Two Tier & Three Tier PKI Cert Authority Servers ( x509v3 Certificates, SAN, KeyUsage, ExtendedKeyUsage, CDP & AIA) 
+- NFSv4
+- Cacti SMNPv2
+- DHCP, DDNS
+- RSYNC backups with Systemd scripting
+- Bash script
+- OpenSSH
+- HAProxy Load Balancer
+- Apache SSL
+- NFTables, IPTables, Port Forwarding
+  etc
+  
+#### Windows Client Server Administration 
+(Windows Server Core & GUI 2016 - 2022), (Windows Enterprise 10, 11 ) (Windows Pro 10 11)
+- ADDS with Split Brain Policy
+- ADFS SSO
+- WAP with ADFS, WORK Folders , SSL Passthrough
+- AOVPN Device Tunnel
+- Machine Cert VPN
+- S2S L2TP PSK VPN
+- App Trigged VPN
+- Work Folders
+- DFS NameSpaces
+- Hyper V Farm
+- Clustered Storage
+- WDS in Nested Hyper V farm
+- WDS
+- GPO policies, Machine & Users
+- AD Users with self generated Powershell Script
+- SMB File Share with File Enumeration Protection
+- Two Tier Root CA with CDP & AIA
+- Cert Templates (IKEv2, Server Auth, Client Auth)
+- Remote Desktop Web App & Remote Desktop Server
+- WinRM
+- Regedit
+- IIS with SSL Bindings
+- NAT w PORT Forwarding
+- Bridging Networks
+- Fake Internet Spoofing NCSI and msftconnecttest checks
+  etc
 
-#### Enterprise Networking
-- DMVPN
-- Ipsec Ikev2 & Ikev1 Encryption
-- Routing and tunneling protocols
+#### Networking Environment Client Server Administrations
+- DMVPN with Ikev2 Ikev1 in any IPv4 or IPv6 Configurations
+- S2S VPN
+- ANYConnect VPN
+- NAT PAT, POOL, STATIC
+- PPPoE Tunneling w CHAP Auth
+- EIGRPv4 and EIGRPv6 w DMVPN Split Horizon
+- OSPFv2 & OSPFv3
+- RIP , RIPng
+- IBGP, EBGP routing
+- Troubleshoot any broken networks
+- MST RSTP, PVST Switching
+- Port Security
+- EtherChannel LACP failover
+  etc
+#### Integrated Environment Windows - Linux Cient Server Administration
+- StrongSwan S2S
+- Cacti
+- Linux Joining AD Domain
+#### Automation Environment for Windows, Linux and Networking Environment
+- Automation of any services
+- J2 Templating
+- Inventory Host file
+- Group Vars
+- Windows Cert, NTLM, Plaintext Auth Setups
 
-#### Offensive Security
-
-#### Forensics, Malware Analysis
-
-#### Social Engineering
-
-#### Machine Learning & Data Analytics
-
-#### Operating systems development 
-- (Unix, GNU/Linux, MSDos, Solaris, iOS, Andriod etc)
 
 ### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
