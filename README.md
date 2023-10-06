@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 ## About myself 🌻
 ### Adventures 🔭 
 I’m currently on an adventure doing 
-- WorldSkills Singapore IT System Network Administrator 
+- WorldSkills Lyon 2024
 - CCNA, CCNP ENCOR & ENARSI
 - Infrastructure Automation using Ansible IaC
 - Linux System Administration
@@ -18,6 +18,7 @@ I’m currently on an adventure doing
 ### Involvements 🌱 
 Im involved in many activities all year round such as 
 -  NYP Worldskills Singapore for IT Systems Network Administrator P1 & P2
+-  WorldSkills International 2024 Lyon
 -  Astronomy Club 
 -  Cyber Games Circle 
 -  Capstone Projects 
