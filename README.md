@@ -36,6 +36,15 @@ In my free time I enjoy doing many things such as
 - sports and more!! („• ֊ •„)
 
 ### IT related:
+<details>
+  <summary>
+        <h3>
+          <span style="colour:#FFDAB9;">
+            Click Me!
+          </span>
+       </h3>
+    </summary>
+  
 These are what i can do, it is not an exhaustive list
 #### Linux Client Server Administrations 
 (Debian 11.3-11.6) CLI or Gnome
@@ -110,7 +119,7 @@ These are what i can do, it is not an exhaustive list
 - Inventory Host file
 - Group Vars
 - Windows Cert, NTLM, Plaintext Auth Setups
-
+</details>
 
 ### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
@@ -193,7 +202,7 @@ These are what i can do, it is not an exhaustive list
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,&theme=light)](https://skillicons.dev)
 
 ### System Administration 🔐
-[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,&theme=light)](https://skillicons.dev)
 
 ### UX & UI Design ✏️
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
