@@ -198,16 +198,16 @@ These are what i can do, it is not an exhaustive list
 
 ## Things I've explored ⛩️ <!-- turn this into a table with desc -->
 
-### Tech Stack 📚
+### SWE & DevOps 📚
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,&theme=light)](https://skillicons.dev)
 
-### System Administration 🔐
-[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,&theme=light)](https://skillicons.dev)
+### IT Network System Administration & DevOps 🔐
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,flask,python,nginx,php,&theme=light)](https://skillicons.dev)
 
 ### UX & UI Design ✏️
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
 
-### Cloud 🌤️
+### Cloud Administration 🌤️
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
 
 ## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
