@@ -128,6 +128,11 @@ These are what i can do, it is not an exhaustive list
 - Windows Cert, NTLM, Plaintext Auth Setups
 </details>
 
+#### Computer Forensics
+- FTK Imager
+- Encase
+- EC council CHFI
+  
 ### My Favourite quote inspired by an amazing friend
  > ### "You were born to be real, not to be perfect. You are here to be you, not to live someone else’s life"
 
