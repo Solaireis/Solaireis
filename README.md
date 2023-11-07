@@ -5,35 +5,42 @@
 
 Here are some ideas to get you started: -->
 
-## About myself 🌻
-### Adventures 🔭 
-I’m currently on an adventure doing 
-- WorldSkills Lyon 2024
-- CCNA, CCNP ENCOR & ENARSI
-- Infrastructure Automation using Ansible IaC
-- Linux System Administration
-- Windows System Administration
-- Cybersecurity & Digital Forensics Diploma
+# About myself 🌻
+## Things I've explored ⛩️ <!-- turn this into a table with desc -->
 
-### Involvements 🌱 
+### SWE & DevOps 📚
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,&theme=light)](https://skillicons.dev)
+
+### IT Network System Administration & DevOps 🔐
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,flask,python,nginx,php,&theme=light)](https://skillicons.dev)
+
+### UX & UI Design ✏️
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
+
+### Cloud Administration 🌤️
+[![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
+
+## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,selenium,unreal,arduino&theme=light)](https://skillicons.dev)
+
+### Current Adventures 🔭 
+I’m currently on an adventure doing 
+- WorldSkills Lyon 2024 IT Network Systems Administration
+- Cybersecurity & Digital Forensics Diploma specialising in Malware Analysis and Foundation in AI
+
+### Outside School Involvements 🌱 
 Im involved in many activities all year round such as 
--  NYP Worldskills Singapore for IT Systems Network Administrator P1 & P2
--  WorldSkills International 2024 Lyon
 -  Astronomy Club 
--  Cyber Games Circle 
 -  Capstone Projects 
 -  Sakuran Japanese Cultural Clubs
+-  Worldskills
+-  Competitions
 
 
 ### 🧋 Hobbies: 
 In my free time I enjoy doing many things such as 
-- doing photography & astrophotography
-- playing the piano
-- drawing lots of art 
-- listening to music 
-- reading books
-- cooking yummy food
-- sports and more!! („• ֊ •„)
+- Photography, Arts, Music
+- Badminton, Running („• ֊ •„)
 
 ### IT related:
 <details>
@@ -196,22 +203,6 @@ These are what i can do, it is not an exhaustive list
    
 </details>
 
-## Things I've explored ⛩️ <!-- turn this into a table with desc -->
-
-### SWE & DevOps 📚
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,&theme=light)](https://skillicons.dev)
-
-### IT Network System Administration & DevOps 🔐
-[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,flask,python,nginx,php,&theme=light)](https://skillicons.dev)
-
-### UX & UI Design ✏️
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
-
-### Cloud Administration 🌤️
-[![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
-
-## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,selenium,unreal,arduino&theme=light)](https://skillicons.dev)
 
 
 
