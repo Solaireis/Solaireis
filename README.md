@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 # About myself 🌻
-## Things I've explored ⛩️ <!-- turn this into a table with desc -->
+## Things I've explored and comfortably working with ⛩️  <!-- turn this into a table with desc -->
 
 ### SWE & DevOps 📚
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,&theme=light)](https://skillicons.dev)
