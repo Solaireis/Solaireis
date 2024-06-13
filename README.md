@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 ## Things I've explored and comfortably working with ⛩️  <!-- turn this into a table with desc -->
 
 ### SWE & DevOps 📚
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,git,swift,&theme=light)](https://skillicons.dev)
 
 ### IT Network System Administration & DevOps 🔐
 [![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,flask,python,nginx,php,git,&theme=light)](https://skillicons.dev)
