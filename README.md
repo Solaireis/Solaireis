@@ -9,19 +9,19 @@ Here are some ideas to get you started: -->
 ## Things I've explored and comfortably working with ⛩️  <!-- turn this into a table with desc -->
 
 ### SWE & DevOps 📚
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,git,swift,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cloudflare,gcp,mysql,flask,bootstrap,tailwind,nodejs,mongodb,git,swift,jquery,fastapi,docker,&theme=light)](https://skillicons.dev)
 
 ### IT Network System Administration & DevOps 🔐
-[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,flask,python,nginx,php,git,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell,bash,ansible,vim,linux,flask,python,nginx,php,git,kali,debian,redhat,windows,regex,perl,&theme=light)](https://skillicons.dev)
 
 ### UX & UI Design ✏️
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,apple,&theme=light)](https://skillicons.dev)
 
 ### Cloud Administration 🌤️
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
 
 ## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,postman,openshift,redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,postman,openshift,redis,robloxstudio,lua,arch,wordpress,tensorflow,arduino,svelte,pytorch,selenium,opencv,emacs,elasticsearch,aws,&theme=light)](https://skillicons.dev)
 
 ### Current Adventures 🔭 
 I’m currently on an adventure doing 
