@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 [![My Skills](https://skillicons.dev/icons?i=azure,gcp,&theme=light)](https://skillicons.dev)
 
 ## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
-[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,docker,firebase,pytorch,postman,openshift,redis,robloxstudio,lua,arch,wordpress,tensorflow,arduino,svelte,pytorch,selenium,opencv,emacs,elasticsearch,aws,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,firebase,postman,openshift,redis,robloxstudio,lua,arch,wordpress,tensorflow,arduino,svelte,pytorch,selenium,opencv,emacs,elasticsearch,&theme=light)](https://skillicons.dev)
 
 ### Current Adventures 🔭 
 I’m currently on an adventure doing 
