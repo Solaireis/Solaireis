@@ -23,6 +23,17 @@ Here are some ideas to get you started: -->
 ## Things I am interested in learning in the near future ✈️ <!-- turn this into a table with desc -->
 [![My Skills](https://skillicons.dev/icons?i=aws,cpp,c,cs,firebase,postman,openshift,redis,robloxstudio,lua,arch,wordpress,tensorflow,arduino,svelte,pytorch,selenium,opencv,emacs,elasticsearch,&theme=light)](https://skillicons.dev)
 
+### Future Adventures
+#### Primary Major - Bacherlors of Integrative Studies (undeclared)
+
+Domains:
+- Cognitive Psychology, Artificial Intelligence, Cybersecurity, Legal, Economics
+
+#### Secondary Major - Quantitative Finance
+
+ Domains:
+- Computer Science, Mathematics, Finance
+
 ### Current Adventures 🔭 
 I’m currently on an adventure doing 
 - WorldSkills Lyon 2024 IT Network Systems Administration
