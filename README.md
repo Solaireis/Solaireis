@@ -34,9 +34,18 @@ Domains:
  Domains:
 - Computer Science, Mathematics, Finance
 
-### Current Adventures 🔭 
-I’m currently on an adventure doing 
-- WorldSkills Lyon 2024 IT Network Systems Administration
+### Archived Adventures 🔭 
+<details>
+  <summary>
+        <h3>
+          <span style="colour:#FFDAB9;">
+            Click Me!
+          </span>
+       </h3>
+    </summary>
+
+ I’m was on an adventure doing 
+- WorldSkills Lyon 2024 IT Network Systems Administration (withdrewed due to health reasons)
 - Cybersecurity & Digital Forensics Diploma specialising in Malware Analysis and Foundation in AI
 
 ### Outside School Involvements 🌱 
@@ -53,7 +62,11 @@ In my free time I enjoy doing many things such as
 - Photography, Arts, Music
 - Badminton, Running („• ֊ •„)
 
-### IT related:
+
+
+</details> 
+
+### IT related abilities (to be documented):
 <details>
   <summary>
         <h3>
