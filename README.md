@@ -1,2 +1,2 @@
-# HI im Jing Xuan 🌻 , incoming SMU Undergraduate
-##  ⛩️  
+<img src="https://github.com/Solaireis/Solaireis/blob/main/header.png" > </img>
+
